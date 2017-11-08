@@ -1,8 +1,5 @@
 # [Project Euler](https://projecteuler.net)
 
-Files: 
-input txt files
-
 | Files        | Description           | 
 | ------------- |-------------| 
 | pX.txt      | Input files | 
